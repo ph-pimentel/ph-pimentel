@@ -82,7 +82,7 @@
 <br/>
 <br/>
 
----
+
 ### Estatísticas
 
 <p>
@@ -93,12 +93,10 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ph-pimentel&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-pimentel&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-pimentel&theme=tokyonight&layout=compact&custom_title=Technology" 
   />
-
 </p>
