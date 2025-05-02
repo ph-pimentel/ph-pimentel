@@ -82,7 +82,7 @@
 <br/>
 <br/>
 
-
+---
 ### Estatísticas
 
 <p>
@@ -98,6 +98,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      widh="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-pimentel&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=9" 
   />
 
