@@ -36,7 +36,7 @@
 <h3 align="center">Redes de Contato</h3>
 
 ###
-
+<link href="www.linkedin.com/in/pedro-henrique-silva-pimentel-598864315"
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+/>
 ###
